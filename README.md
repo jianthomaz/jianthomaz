@@ -17,7 +17,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jian-thom%C3%A1z-souza)](https://www.linkedin.com/in/jian-thom%C3%A1z-souza)
 
-<code><img height= "20"src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 - Thanks for visiting.
 
