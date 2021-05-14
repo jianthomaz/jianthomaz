@@ -17,7 +17,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jian-thom%C3%A1z-souza)](https://www.linkedin.com/in/jian-thom%C3%A1z-souza)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![jianthomaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/jianthomaz/github-readme-stats)
 
 
 - Thanks for visiting.
