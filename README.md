@@ -2,7 +2,7 @@
 
 ## I'm Jian Thomáz de Souza!
 
-:computer: I'm Front-End Developer!
+:computer: I'm a Front End Development student!
 
 :house_with_garden: I’m from Brazil.
 
